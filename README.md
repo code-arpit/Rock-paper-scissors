@@ -1,2 +1,2 @@
 # Rock-paper-scissors
-Game
+# lets play the game
